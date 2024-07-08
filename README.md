@@ -54,14 +54,13 @@ docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-cpu
 
 [Roadmap](https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3Aroadmap)
 
-- 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: https://github.com/mudler/LocalAI/pull/2723
+- 🔥🔥 🆕 P2P Dashboard, LocalAI Federated mode and AI Swarms: [https://github.com/mudler/LocalAI/pull/2723](https://www.linkedin.com/in/senan-qasimzade)
 - 🆕 You can browse now the model gallery without LocalAI! Check out https://models.localai.io
-- 🔥🔥 Decentralized llama.cpp:  https://github.com/mudler/LocalAI/pull/2343 (peer2peer llama.cpp!) 👉 Docs  https://localai.io/features/distribute/
-- 🔥🔥 Openvoice: https://github.com/mudler/LocalAI/pull/2334
-- 🆕 Function calls without grammars and mixed mode: https://github.com/mudler/LocalAI/pull/2328
-- 🔥🔥 Distributed inferencing: https://github.com/mudler/LocalAI/pull/2324
-- Chat, TTS, and Image generation in the WebUI: https://github.com/mudler/LocalAI/pull/2222
-- Reranker API: https://github.com/mudler/LocalAI/pull/2121
+- 🔥🔥 Decentralized llama.cpp:  qeer2peer llama.cpp!) 👉 Docs  https://localai.io/features/distribute/
+- 🔥🔥 Openvoice: https://github.com/senan2024
+- 🆕 Function calls without grammars and mixed mode: https://github.com/senan2024
+- 🔥🔥 Distributed inferencing: https://github.com/senan2024
+- Chat, TTS, and Image generation in the WebUI: https://github.com/senan2024
 
 If you want to help and contribute, issues up for grabs: https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22
 
