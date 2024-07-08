@@ -63,15 +63,6 @@ docker run -ti --name local-ai -p 8080:8080 localai/localai:latest-aio-cpu
 - Chat, TTS, and Image generation in the WebUI: https://github.com/mudler/LocalAI/pull/2222
 - Reranker API: https://github.com/mudler/LocalAI/pull/2121
 
-Hot topics (looking for contributors):
-
-- WebUI improvements: https://github.com/mudler/LocalAI/issues/2156
-- Backends v2: https://github.com/mudler/LocalAI/issues/1126
-- Improving UX v2: https://github.com/mudler/LocalAI/issues/1373
-- Assistant API: https://github.com/mudler/LocalAI/issues/1273
-- Moderation endpoint: https://github.com/mudler/LocalAI/issues/999
-- Vulkan: https://github.com/mudler/LocalAI/issues/1647
-
 If you want to help and contribute, issues up for grabs: https://github.com/mudler/LocalAI/issues?q=is%3Aissue+is%3Aopen+label%3A%22up+for+grabs%22
 
 ## 🚀 [Features](https://localai.io/features/)
