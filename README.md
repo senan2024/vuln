@@ -186,32 +186,3 @@ A huge thank you to our generous sponsors who support this project covering CI e
   </a>
 </p>
 
-## 🌟 Star history
-
-[![LocalAI Star history Chart](https://api.star-history.com/svg?repos=go-skynet/LocalAI&type=Date)](https://star-history.com/#go-skynet/LocalAI&Date)
-
-## 📖 License
-
-LocalAI is a community-driven project created by [Ettore Di Giacinto](https://github.com/mudler/).
-
-MIT - Author Ettore Di Giacinto <mudler@localai.io>
-
-## 🙇 Acknowledgements
-
-LocalAI couldn't have been built without the help of great software already available from the community. Thank you!
-
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- https://github.com/tatsu-lab/stanford_alpaca
-- https://github.com/cornelk/llama-go for the initial ideas
-- https://github.com/antimatter15/alpaca.cpp
-- https://github.com/EdVince/Stable-Diffusion-NCNN
-- https://github.com/ggerganov/whisper.cpp
-- https://github.com/saharNooby/rwkv.cpp
-- https://github.com/rhasspy/piper
-
-## 🤗 Contributors
-
-This is a community project, a special thanks to our contributors! 🤗
-<a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
-</a>
